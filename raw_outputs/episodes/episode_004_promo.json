@@ -1,0 +1,28 @@
+{
+  "episode": 4,
+  "segments": [
+    {
+      "start": "01:54.00",
+      "end": "02:29.00",
+      "duration_sec": 35.0
+    }
+  ],
+  "total_duration_sec": 35.0,
+  "hook": "Lady Ashcroft\u2019s venomous shout 'You are disowned!' paired with Gerald\u2019s furious recoil, instantly establishing high-stakes family betrayal.",
+  "cliffhanger": "Juliana and the scarred warrior walking hand-in-hand into the blinding sunlight, leaving the viewer to wonder if this 'penniless nobody' is truly the powerful figure he appears to be.",
+  "why_it_works": "It leverages the 'underdog romance' trope with a definitive, emotional rejection of toxic family dynamics that triggers immediate empathy and curiosity about the hero's true identity.",
+  "viral_score": 93.0,
+  "scores": {
+    "hook": 8.0,
+    "cliffhanger": 10.0,
+    "coherence": 8.5
+  },
+  "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+  "total_episode_duration": "02:31.40",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

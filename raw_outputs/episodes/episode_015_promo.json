@@ -1,0 +1,28 @@
+{
+  "episode": 15,
+  "segments": [
+    {
+      "start": "00:44.20",
+      "end": "01:26.00",
+      "duration_sec": 41.8
+    }
+  ],
+  "total_duration_sec": 41.8,
+  "hook": "Visual 'shoves': The Thug with Cap violently shoves Juliana back with both ha; THUG WITH CAP (Menacing Snarl): \"Get out of the way!\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Get out of the way!...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 93.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 9.0,
+    "coherence": 8.5
+  },
+  "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+  "total_episode_duration": "01:26.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

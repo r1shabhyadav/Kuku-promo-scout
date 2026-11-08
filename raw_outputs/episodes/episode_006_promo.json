@@ -1,0 +1,28 @@
+{
+  "episode": 6,
+  "segments": [
+    {
+      "start": "01:12.10",
+      "end": "01:55.00",
+      "duration_sec": 42.9
+    }
+  ],
+  "total_duration_sec": 42.9,
+  "hook": "A close-up of flint striking steel, erupting in bright sparks that instantly ignite a flame in a dark, rainy setting.",
+  "cliffhanger": "Juliana's vulnerable V.O. admitting she lost 'everything' but feels 'safe' with her new husband, leaving the audience questioning the true nature of this 'Mysterious Bearded Man' and his intentions.",
+  "why_it_works": "The high-contrast visual of fire against the cold rain combined with the emotional paradox of finding safety in a stranger creates an immediate emotional hook that demands context.",
+  "viral_score": 92.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 8.0,
+    "coherence": 8.5
+  },
+  "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+  "total_episode_duration": "01:55.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

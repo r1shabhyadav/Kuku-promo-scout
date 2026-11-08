@@ -1,0 +1,28 @@
+{
+  "episode": 2,
+  "segments": [
+    {
+      "start": "01:12.80",
+      "end": "01:50.00",
+      "duration_sec": 37.2
+    }
+  ],
+  "total_duration_sec": 37.2,
+  "hook": "Juliana's chin lifts sharply into the camera with a piercing, bitter sneer as she delivers the single word: 'Dignity?'",
+  "cliffhanger": "The cut lands on the final beat of her declaration that she will not leave ashamed, leaving the audience to wonder if Gerald or the family will retaliate to this public humiliation.",
+  "why_it_works": "It leverages the high-stakes 'public shaming reversal' trope, satisfying the viewer's desire for instant justice against a villain while leaving the social fallout unresolved.",
+  "viral_score": 75.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 6.5
+  },
+  "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+  "total_episode_duration": "01:50.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

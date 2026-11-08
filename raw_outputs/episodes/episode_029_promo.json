@@ -1,0 +1,28 @@
+{
+  "episode": 29,
+  "segments": [
+    {
+      "start": "01:07.00",
+      "end": "01:54.80",
+      "duration_sec": 47.8
+    }
+  ],
+  "total_duration_sec": 47.8,
+  "hook": "Visual 'tear': Close-up of Juliana raising her chin, unwavering pride break; CATHERINE (Menacing): \"You should have stayed forgotten.\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'You should have stayed forgotten....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 89.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 8.0,
+    "coherence": 8.5
+  },
+  "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+  "total_episode_duration": "01:56.69",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

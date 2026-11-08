@@ -1,0 +1,31 @@
+{
+  "episode": 8,
+  "segments": [
+    {
+      "start": "00:15.00",
+      "end": "00:35.50",
+      "duration_sec": 20.5
+    }
+  ],
+  "total_duration_sec": 20.5,
+  "hook": "Alexander's gritty, somber confession: 'Soldiers learn quickly which plants keep a man alive.'",
+  "cliffhanger": "Juliana's tender, intimate offer: 'I could trim them for you,' leaving the physical and emotional boundary crossing unresolved.",
+  "why_it_works": "The juxtaposition of war-hardened trauma with a sudden, intimate grooming offer creates an immediate curiosity gap about the shift from strangers to lovers.",
+  "viral_score": 57.0,
+  "scores": {
+    "hook": 8.0,
+    "cliffhanger": 1.0,
+    "coherence": 8.5
+  },
+  "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+  "total_episode_duration": "01:18.00",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 85.0,
+    "warnings": [
+      "Low kinetic energy: Dialogue-heavy scene with no physical action or blocking changes.",
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

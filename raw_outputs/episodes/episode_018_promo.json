@@ -1,0 +1,31 @@
+{
+  "episode": 18,
+  "segments": [
+    {
+      "start": "02:51.00",
+      "end": "03:12.00",
+      "duration_sec": 21.0
+    }
+  ],
+  "total_duration_sec": 21.0,
+  "hook": "Opens with ALEXANDER (Cold Fury, Resolute): \"They took our home. I will not let them take anyth\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'cut to black', Official episode cut-to-black",
+  "why_it_works": "Instantly arrests scrollers with 'They took our home. I will not let them take ...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 71.0,
+  "scores": {
+    "hook": 6.0,
+    "cliffhanger": 7.5,
+    "coherence": 8.5
+  },
+  "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+  "total_episode_duration": "03:12.00",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 87.0,
+    "warnings": [
+      "Pronoun Ambiguity: Promo opens with an unresolved pronoun referencing an off-clip character.",
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

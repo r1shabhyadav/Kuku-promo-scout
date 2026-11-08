@@ -1,0 +1,30 @@
+{
+  "episode": 45,
+  "segments": [
+    {
+      "start": "00:51.80",
+      "end": "01:14.50",
+      "duration_sec": 22.7
+    }
+  ],
+  "total_duration_sec": 22.7,
+  "hook": "Visual 'poison': \"You poisoned my mother. You tortured my wife.\"; ALEXANDER (Furious, Cold): \"You poisoned my mother. You tortured my wife.\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'shock'",
+  "why_it_works": "Instantly arrests scrollers with 'You poisoned my mother. You tortured my wife....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 75.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+  "total_episode_duration": "02:01.75",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

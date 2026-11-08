@@ -1,0 +1,28 @@
+{
+  "episode": 32,
+  "segments": [
+    {
+      "start": "01:59.60",
+      "end": "02:34.38",
+      "duration_sec": 34.78
+    }
+  ],
+  "total_duration_sec": 34.78,
+  "hook": "Visual 'defiance': Close-up of Juliana crying out her defiance.; CATHERINE (Hysterical, Screaming): \"Silence! Silence!\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Silence! Silence!...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 85.8,
+  "scores": {
+    "hook": 7.2,
+    "cliffhanger": 10.0,
+    "coherence": 8.5
+  },
+  "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+  "total_episode_duration": "02:34.38",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

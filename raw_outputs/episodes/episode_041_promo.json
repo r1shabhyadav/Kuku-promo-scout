@@ -1,0 +1,28 @@
+{
+  "episode": 41,
+  "segments": [
+    {
+      "start": "00:57.80",
+      "end": "01:36.09",
+      "duration_sec": 38.29
+    }
+  ],
+  "total_duration_sec": 38.29,
+  "hook": "Opens with JULIANA (Defiant, Unbowed): \"You needed an entire chapel to feel powerful over \"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'You needed an entire chapel to feel powerful ...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 91.0,
+  "scores": {
+    "hook": 9.5,
+    "cliffhanger": 9.0,
+    "coherence": 8.5
+  },
+  "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced\u2014until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+  "total_episode_duration": "01:36.09",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

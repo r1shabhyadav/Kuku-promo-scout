@@ -1,0 +1,30 @@
+{
+  "episode": 19,
+  "segments": [
+    {
+      "start": "00:25.80",
+      "end": "00:49.20",
+      "duration_sec": 23.4
+    }
+  ],
+  "total_duration_sec": 23.4,
+  "hook": "Visual 'tear': Close-up of Juliana, tears spilling down her cheeks as she s; ELDER VILLAGER (O.S.): \"You saved mine, too.\"",
+  "cliffhanger": "Cuts on unresolved line: ALEXANDER: \"Tell me what is happening in Ashburg....\"",
+  "why_it_works": "Instantly arrests scrollers with 'You saved mine, too....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 73.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.0,
+    "coherence": 8.5
+  },
+  "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+  "total_episode_duration": "01:59.63",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

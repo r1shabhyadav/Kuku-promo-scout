@@ -1,0 +1,28 @@
+{
+  "episode": 14,
+  "segments": [
+    {
+      "start": "00:09.50",
+      "end": "00:47.50",
+      "duration_sec": 38.0
+    }
+  ],
+  "total_duration_sec": 38.0,
+  "hook": "Visual 'blood': The Constable takes the ring from her bloodied fingers.; JULIANA (Firm, Commanding): \"Now release my husband.\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Now release my husband....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 89.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 8.0,
+    "coherence": 8.5
+  },
+  "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+  "total_episode_duration": "01:27.63",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

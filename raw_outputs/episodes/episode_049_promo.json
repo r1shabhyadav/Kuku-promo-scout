@@ -1,0 +1,30 @@
+{
+  "episode": 49,
+  "segments": [
+    {
+      "start": "00:33.20",
+      "end": "01:23.80",
+      "duration_sec": 50.6
+    }
+  ],
+  "total_duration_sec": 50.6,
+  "hook": "Opens with FATHER THOMAS (Dry, Cynical): \"A priest and a disgraced bride meeting before dawn\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'unresolved'",
+  "why_it_works": "Instantly arrests scrollers with 'A priest and a disgraced bride meeting before...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 61.0,
+  "scores": {
+    "hook": 6.5,
+    "cliffhanger": 5.0,
+    "coherence": 7.5
+  },
+  "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+  "total_episode_duration": "02:24.75",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 90.0,
+    "warnings": [
+      "Low kinetic energy: Dialogue-heavy scene with no physical action or blocking changes."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

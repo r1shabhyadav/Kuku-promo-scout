@@ -1,0 +1,30 @@
+{
+  "episode": 37,
+  "segments": [
+    {
+      "start": "01:40.50",
+      "end": "02:36.47",
+      "duration_sec": 55.97
+    }
+  ],
+  "total_duration_sec": 55.97,
+  "hook": "Visual 'defiance': Extreme close-up of Juliana's blue eyes snapping open, blazi; JULIANA (Fierce Resolve): \"They think fear will make me beg.\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'They think fear will make me beg....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 89.0,
+  "scores": {
+    "hook": 9.5,
+    "cliffhanger": 9.0,
+    "coherence": 7.5
+  },
+  "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+  "total_episode_duration": "02:36.47",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 92.0,
+    "warnings": [
+      "Pronoun Ambiguity: Promo opens with an unresolved pronoun referencing an off-clip character."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

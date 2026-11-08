@@ -1,0 +1,30 @@
+{
+  "episode": 31,
+  "segments": [
+    {
+      "start": "02:18.00",
+      "end": "02:40.00",
+      "duration_sec": 22.0
+    }
+  ],
+  "total_duration_sec": 22.0,
+  "hook": "Visual 'tear': Tears spill rapidly down Juliana's cheeks as she reaches for; JULIANA (Desperate, Weeping): \"[gasping] Give it back!\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with '[gasping] Give it back!...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 87.8,
+  "scores": {
+    "hook": 8.7,
+    "cliffhanger": 9.0,
+    "coherence": 8.5
+  },
+  "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+  "total_episode_duration": "02:40.00",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

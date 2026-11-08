@@ -1,0 +1,30 @@
+{
+  "episode": 28,
+  "segments": [
+    {
+      "start": "00:58.60",
+      "end": "01:22.40",
+      "duration_sec": 23.8
+    }
+  ],
+  "total_duration_sec": 23.8,
+  "hook": "Visual 'poison': \"How convenient that the only person who can prove the poiso; BLOND NOBLEMAN (Condescending, Whispering): \"Of course you are not.\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Of course you are not....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 75.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+  "total_episode_duration": "02:18.50",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

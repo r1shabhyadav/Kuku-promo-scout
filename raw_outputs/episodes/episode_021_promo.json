@@ -1,0 +1,28 @@
+{
+  "episode": 21,
+  "segments": [
+    {
+      "start": "01:10.50",
+      "end": "01:54.00",
+      "duration_sec": 43.5
+    }
+  ],
+  "total_duration_sec": 43.5,
+  "hook": "Visual 'tear': Close-up of Prudence covering her mouth in overwhelmed relie; PRUDENCE (Overwhelmed, Relieved): \"Oh, thank God! His chest is quiet! The rattling ha\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Oh, thank God! His chest is quiet! The rattli...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 91.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 9.0,
+    "coherence": 7.5
+  },
+  "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+  "total_episode_duration": "01:54.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

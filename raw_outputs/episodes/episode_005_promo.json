@@ -1,0 +1,30 @@
+{
+  "episode": 5,
+  "segments": [
+    {
+      "start": "00:04.20",
+      "end": "00:29.00",
+      "duration_sec": 24.8
+    }
+  ],
+  "total_duration_sec": 24.8,
+  "hook": "Lord Ashcroft\u2019s cold, commanding voice cuts through the silence: 'Miss Ashcroft,' immediately followed by the visual of a rugged, bearded man physically shielding a vulnerable woman from the church steps.",
+  "cliffhanger": "The final, harsh ultimatum: 'Your inheritance is revoked,' leaving the viewer in immediate suspense about how the newlywed couple will survive without their family's support.",
+  "why_it_works": "It leverages the high-stakes 'disownment' trope combined with a protective male lead to create an instant emotional investment in the underdog's survival.",
+  "viral_score": 79.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+  "total_episode_duration": "01:50.50",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

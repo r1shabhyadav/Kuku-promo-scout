@@ -1,0 +1,31 @@
+{
+  "episode": 27,
+  "segments": [
+    {
+      "start": "00:13.20",
+      "end": "00:48.80",
+      "duration_sec": 35.6
+    }
+  ],
+  "total_duration_sec": 35.6,
+  "hook": "Opens with JULIANA (Earnest, Defending): \"He is a soldier. A veteran from the Peninsula.\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'He is a soldier. A veteran from the Peninsula...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 75.0,
+  "scores": {
+    "hook": 6.5,
+    "cliffhanger": 8.0,
+    "coherence": 8.5
+  },
+  "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+  "total_episode_duration": "02:30.50",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 82.0,
+    "warnings": [
+      "Low kinetic energy: Dialogue-heavy scene with no physical action or blocking changes.",
+      "Pronoun Ambiguity: Promo opens with an unresolved pronoun referencing an off-clip character."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

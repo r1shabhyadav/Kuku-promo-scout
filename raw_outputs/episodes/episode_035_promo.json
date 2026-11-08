@@ -1,0 +1,28 @@
+{
+  "episode": 35,
+  "segments": [
+    {
+      "start": "01:44.20",
+      "end": "02:37.50",
+      "duration_sec": 53.3
+    }
+  ],
+  "total_duration_sec": 53.3,
+  "hook": "Visual 'tear': Close-up of his mother clutching at her throat, tears gliste; ALEXANDER'S MOTHER (Trembling, Anxious): \"And you?\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'And you?...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 83.8,
+  "scores": {
+    "hook": 9.5,
+    "cliffhanger": 7.7,
+    "coherence": 7.5
+  },
+  "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+  "total_episode_duration": "02:37.50",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

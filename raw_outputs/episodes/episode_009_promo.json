@@ -1,0 +1,31 @@
+{
+  "episode": 9,
+  "segments": [
+    {
+      "start": "01:35.00",
+      "end": "01:55.50",
+      "duration_sec": 20.5
+    }
+  ],
+  "total_duration_sec": 20.5,
+  "hook": "Opens with BLOND NOBLEMAN (Mocking, Arrogant): \"People see ghosts whenever they want a story.\"",
+  "cliffhanger": "Abrupt narrative cut point before resolution",
+  "why_it_works": "Instantly arrests scrollers with 'People see ghosts whenever they want a story....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 61.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 1.0,
+    "coherence": 8.5
+  },
+  "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+  "total_episode_duration": "01:55.50",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 85.0,
+    "warnings": [
+      "Low kinetic energy: Dialogue-heavy scene with no physical action or blocking changes.",
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

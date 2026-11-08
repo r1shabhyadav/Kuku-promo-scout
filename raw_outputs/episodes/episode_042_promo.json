@@ -1,0 +1,28 @@
+{
+  "episode": 42,
+  "segments": [
+    {
+      "start": "00:15.00",
+      "end": "00:54.00",
+      "duration_sec": 39.0
+    }
+  ],
+  "total_duration_sec": 39.0,
+  "hook": "Visual 'guards': \"Guards! Arrest this imposter!\"; JULIANA (Breathless, Tearful Whisper): \"Alexander...\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'silence'",
+  "why_it_works": "Instantly arrests scrollers with 'Alexander......' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 73.8,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.2,
+    "coherence": 8.5
+  },
+  "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.",
+  "total_episode_duration": "01:17.80",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

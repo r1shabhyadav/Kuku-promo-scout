@@ -1,0 +1,28 @@
+{
+  "episode": 40,
+  "segments": [
+    {
+      "start": "00:44.10",
+      "end": "01:21.00",
+      "duration_sec": 36.9
+    }
+  ],
+  "total_duration_sec": 36.9,
+  "hook": "Opens with LORD HARRINGTON (Inquiring, Subdued): \"Of the wedding?\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Of the wedding?...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 61.0,
+  "scores": {
+    "hook": 6.5,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution\u2014unaware that Alexander's retribution is already at their gates.",
+  "total_episode_duration": "01:50.08",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

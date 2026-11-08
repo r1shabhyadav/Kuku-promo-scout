@@ -1,0 +1,28 @@
+{
+  "episode": 7,
+  "segments": [
+    {
+      "start": "01:05.20",
+      "end": "01:36.00",
+      "duration_sec": 30.8
+    }
+  ],
+  "total_duration_sec": 30.8,
+  "hook": "Opens with GERALD (Furious, Threatening): \"I have enough influence to make a beggar disappear\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'I have enough influence to make a beggar disa...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 89.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 8.0,
+    "coherence": 8.5
+  },
+  "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+  "total_episode_duration": "01:56.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

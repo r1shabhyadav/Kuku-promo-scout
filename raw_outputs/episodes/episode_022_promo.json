@@ -1,0 +1,33 @@
+{
+  "episode": 22,
+  "segments": [
+    {
+      "start": "00:00.00",
+      "end": "00:14.20",
+      "duration_sec": 14.2
+    },
+    {
+      "start": "01:31.50",
+      "end": "02:11.00",
+      "duration_sec": 39.5
+    }
+  ],
+  "total_duration_sec": 53.7,
+  "hook": "Dynamic scene opening: Shock line 'servant', Shock line 'plain'",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Juxtaposes the opening betrayal shock with the final confrontation cliffhanger, maximizing stakes without dragging through exposition.",
+  "viral_score": 89.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 9.0,
+    "coherence": 7.5
+  },
+  "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+  "total_episode_duration": "02:11.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

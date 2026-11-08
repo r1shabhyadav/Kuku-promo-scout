@@ -1,0 +1,28 @@
+{
+  "episode": 25,
+  "segments": [
+    {
+      "start": "00:13.20",
+      "end": "01:03.50",
+      "duration_sec": 50.3
+    }
+  ],
+  "total_duration_sec": 50.3,
+  "hook": "Visual 'grab': Two-shot profile of Alexander grabbing Juliana's shoulder as; ALEXANDER (Sharp, Alarmed): \"You're hurt.\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'shock'",
+  "why_it_works": "Instantly arrests scrollers with 'You're hurt....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 73.0,
+  "scores": {
+    "hook": 9.5,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+  "total_episode_duration": "02:48.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

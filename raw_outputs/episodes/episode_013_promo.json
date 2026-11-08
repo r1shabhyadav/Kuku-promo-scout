@@ -1,0 +1,28 @@
+{
+  "episode": 13,
+  "segments": [
+    {
+      "start": "00:39.80",
+      "end": "01:10.20",
+      "duration_sec": 30.4
+    }
+  ],
+  "total_duration_sec": 30.4,
+  "hook": "Opens with CLARISSA (Cruel, Sarcastic): \"That garden has swallowed better women than you.\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'That garden has swallowed better women than y...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 75.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+  "total_episode_duration": "01:58.88",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "episode": 47,
+  "segments": [
+    {
+      "start": "01:07.00",
+      "end": "01:38.80",
+      "duration_sec": 31.8
+    }
+  ],
+  "total_duration_sec": 31.8,
+  "hook": "Visual 'poison': \"She aided the poison in my veins. Cast her into the road.\"; LADY ASHBOURNE (Cold, Unforgiving): \"She aided the poison in my veins. Cast her into th\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'shock'",
+  "why_it_works": "Instantly arrests scrollers with 'She aided the poison in my veins. Cast her in...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 75.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne\u2014only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+  "total_episode_duration": "02:14.00",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 92.0,
+    "warnings": [
+      "Pronoun Ambiguity: Promo opens with an unresolved pronoun referencing an off-clip character."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

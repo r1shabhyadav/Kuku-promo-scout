@@ -1,0 +1,30 @@
+{
+  "episode": 20,
+  "segments": [
+    {
+      "start": "01:29.80",
+      "end": "01:54.75",
+      "duration_sec": 24.95
+    }
+  ],
+  "total_duration_sec": 24.95,
+  "hook": "Opens with CATHERINE (Cruel, Callous): \"Let the peasants rot in their barns.\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Let the peasants rot in their barns....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 93.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 9.0,
+    "coherence": 8.5
+  },
+  "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+  "total_episode_duration": "01:54.75",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

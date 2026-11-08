@@ -1,0 +1,28 @@
+{
+  "episode": 33,
+  "segments": [
+    {
+      "start": "02:17.80",
+      "end": "02:54.04",
+      "duration_sec": 36.24
+    }
+  ],
+  "total_duration_sec": 36.24,
+  "hook": "Visual 'grab': Close-up of the maid grabbing both sides of her head, scream; LORD (Unyielding): \"Before the magistrate.\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'silence'",
+  "why_it_works": "Instantly arrests scrollers with 'Before the magistrate....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 73.8,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.2,
+    "coherence": 8.5
+  },
+  "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+  "total_episode_duration": "02:54.04",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "episode": 11,
+  "segments": [
+    {
+      "start": "01:01.80",
+      "end": "01:39.20",
+      "duration_sec": 37.4
+    }
+  ],
+  "total_duration_sec": 37.4,
+  "hook": "Visual 'tear': Low-angle close-up of Juliana crawling on the floor, looking; JULIANA (Crying, Desperate): \"Please! There is nothing here!\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Please! There is nothing here!...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 89.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 8.0,
+    "coherence": 8.5
+  },
+  "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+  "total_episode_duration": "01:52.75",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

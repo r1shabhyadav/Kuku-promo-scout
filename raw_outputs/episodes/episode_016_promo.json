@@ -1,0 +1,28 @@
+{
+  "episode": 16,
+  "segments": [
+    {
+      "start": "00:44.20",
+      "end": "01:23.19",
+      "duration_sec": 38.99
+    }
+  ],
+  "total_duration_sec": 38.99,
+  "hook": "Opens with THUG WITH CAP (Choking, Defiant): \"No one!\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'No one!...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 93.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 9.0,
+    "coherence": 8.5
+  },
+  "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+  "total_episode_duration": "01:23.19",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "episode": 38,
+  "segments": [
+    {
+      "start": "00:45.50",
+      "end": "01:27.91",
+      "duration_sec": 42.41
+    }
+  ],
+  "total_duration_sec": 42.41,
+  "hook": "Visual 'tear': A heavy tear drips down from her jaw, falling into the dark ; JULIANA (Fearful, Pleading): \"What if I die here?\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'What if I die here?...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 95.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 10.0,
+    "coherence": 7.5
+  },
+  "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+  "total_episode_duration": "01:27.91",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

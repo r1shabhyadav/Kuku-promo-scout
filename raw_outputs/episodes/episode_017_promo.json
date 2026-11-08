@@ -1,0 +1,30 @@
+{
+  "episode": 17,
+  "segments": [
+    {
+      "start": "01:33.00",
+      "end": "01:58.88",
+      "duration_sec": 25.88
+    }
+  ],
+  "total_duration_sec": 25.88,
+  "hook": "Alexander's hand snaps up to catch Juliana's wrist mid-air, freezing her playful gesture into a moment of intense, sudden intimacy.",
+  "cliffhanger": "Juliana's voiceover admits she knows 'almost nothing' about her husband just as she buries her face in his chest, leaving the audience questioning the depth of this trust.",
+  "why_it_works": "The juxtaposition of a playful physical catch with a vulnerable admission of ignorance creates an immediate emotional gap that demands resolution.",
+  "viral_score": 69.0,
+  "scores": {
+    "hook": 7.5,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+  "total_episode_duration": "01:58.88",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 92.0,
+    "warnings": [
+      "Pronoun Ambiguity: Promo opens with an unresolved pronoun referencing an off-clip character."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

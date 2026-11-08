@@ -1,0 +1,28 @@
+{
+  "episode": 46,
+  "segments": [
+    {
+      "start": "00:20.50",
+      "end": "00:49.00",
+      "duration_sec": 28.5
+    }
+  ],
+  "total_duration_sec": 28.5,
+  "hook": "Opens with HIGH PRIEST (O.S.) (Cold, Accusatory): \"You married this woman as a nameless beggar...\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'defiance'",
+  "why_it_works": "Instantly arrests scrollers with 'You married this woman as a nameless beggar.....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 74.2,
+  "scores": {
+    "hook": 9.8,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+  "total_episode_duration": "02:23.88",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

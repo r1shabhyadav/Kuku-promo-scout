@@ -1,0 +1,30 @@
+{
+  "episode": 43,
+  "segments": [
+    {
+      "start": "01:11.20",
+      "end": "01:49.00",
+      "duration_sec": 37.8
+    }
+  ],
+  "total_duration_sec": 37.8,
+  "hook": "Opens with BLOND NOBLEMAN (Desperate, Denying): \"I didn't!\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'I didn't!...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 89.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 8.0,
+    "coherence": 8.5
+  },
+  "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+  "total_episode_duration": "01:54.96",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 90.0,
+    "warnings": [
+      "Low kinetic energy: Dialogue-heavy scene with no physical action or blocking changes."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

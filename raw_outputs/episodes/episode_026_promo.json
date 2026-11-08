@@ -1,0 +1,28 @@
+{
+  "episode": 26,
+  "segments": [
+    {
+      "start": "00:55.80",
+      "end": "01:35.00",
+      "duration_sec": 39.2
+    }
+  ],
+  "total_duration_sec": 39.2,
+  "hook": "Visual 'poison': \"Rupert and Catherine want me dead. They are poisoning me in; DOWAGER DUCHESS (Trembling, Heartbroken): \"Rupert and Catherine want me dead. They are poison\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Rupert and Catherine want me dead. They are p...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 97.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 10.0,
+    "coherence": 8.5
+  },
+  "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+  "total_episode_duration": "02:00.88",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

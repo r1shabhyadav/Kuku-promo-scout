@@ -1,0 +1,30 @@
+{
+  "episode": 30,
+  "segments": [
+    {
+      "start": "01:13.50",
+      "end": "01:34.50",
+      "duration_sec": 21.0
+    }
+  ],
+  "total_duration_sec": 21.0,
+  "hook": "Visual 'poison': \"Give those facts to a magistrate in the right order, and sh; ELDER NOBLEMAN (Cold, Calculating): \"Give those facts to a magistrate in the right orde\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'shock'",
+  "why_it_works": "Instantly arrests scrollers with 'Give those facts to a magistrate in the right...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 75.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+  "total_episode_duration": "02:31.21",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

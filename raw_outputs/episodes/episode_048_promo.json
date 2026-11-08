@@ -1,0 +1,28 @@
+{
+  "episode": 48,
+  "segments": [
+    {
+      "start": "00:29.20",
+      "end": "01:09.00",
+      "duration_sec": 39.8
+    }
+  ],
+  "total_duration_sec": 39.8,
+  "hook": "Opens with AGNES (Hushed, Submissive): \"You sent for me, my lady?\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'You sent for me, my lady?...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 73.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 7.5
+  },
+  "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+  "total_episode_duration": "01:20.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

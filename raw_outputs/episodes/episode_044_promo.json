@@ -1,0 +1,30 @@
+{
+  "episode": 44,
+  "segments": [
+    {
+      "start": "00:03.20",
+      "end": "00:24.40",
+      "duration_sec": 21.2
+    }
+  ],
+  "total_duration_sec": 21.2,
+  "hook": "Opens with POLICE CONSTABLE (Authoritative, Stern): \"Lord Henry Sterling, you are under arrest by order\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'silence'",
+  "why_it_works": "Instantly arrests scrollers with 'Lord Henry Sterling, you are under arrest by ...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 67.8,
+  "scores": {
+    "hook": 8.5,
+    "cliffhanger": 4.2,
+    "coherence": 8.5
+  },
+  "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+  "total_episode_duration": "01:10.50",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

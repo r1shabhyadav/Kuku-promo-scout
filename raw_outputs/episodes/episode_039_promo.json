@@ -1,0 +1,30 @@
+{
+  "episode": 39,
+  "segments": [
+    {
+      "start": "00:41.00",
+      "end": "01:02.80",
+      "duration_sec": 21.8
+    }
+  ],
+  "total_duration_sec": 21.8,
+  "hook": "Visual 'guards': Wide high-angle shot overlooking the stone cathedral steps w; LOYALIST FIGHTER (Whispering, Cold): \"Sleep.\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Sleep....' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 75.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 4.5,
+    "coherence": 8.5
+  },
+  "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+  "total_episode_duration": "01:38.41",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 95.0,
+    "warnings": [
+      "Pacing Risk: Clip duration under 25s may not allow emotional tension to land."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

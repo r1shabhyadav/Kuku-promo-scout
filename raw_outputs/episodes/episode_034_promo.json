@@ -1,0 +1,28 @@
+{
+  "episode": 34,
+  "segments": [
+    {
+      "start": "00:00.00",
+      "end": "00:37.00",
+      "duration_sec": 37.0
+    }
+  ],
+  "total_duration_sec": 37.0,
+  "hook": "Visual 'poison': \"Lady Juliana Ashcroft, you are accused of witchcraft, unlaw; JUDGE (Booming, Authoritative): \"Lady Juliana Ashcroft, you are accused of witchcra\"",
+  "cliffhanger": "Ominous audio swell cuts at maximum tension",
+  "why_it_works": "Instantly arrests scrollers with 'Lady Juliana Ashcroft, you are accused of wit...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 87.8,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 7.7,
+    "coherence": 8.5
+  },
+  "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+  "total_episode_duration": "03:10.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}

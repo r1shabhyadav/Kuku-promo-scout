@@ -1,0 +1,30 @@
+{
+  "episode": 10,
+  "segments": [
+    {
+      "start": "00:04.20",
+      "end": "00:31.80",
+      "duration_sec": 27.6
+    }
+  ],
+  "total_duration_sec": 27.6,
+  "hook": "Visual 'blood': Close-up of Alexander struggling to breathe, clutching his b; JULIANA (Alarmed, Breathless): \"Alexander!\"",
+  "cliffhanger": "Dramatic tension cutoff: Climactic cue 'defiance', Climactic cue 'stares'",
+  "why_it_works": "Instantly arrests scrollers with 'Alexander!...' and cuts sharply on an unresolved confrontation that demands episode completion.",
+  "viral_score": 87.0,
+  "scores": {
+    "hook": 10.0,
+    "cliffhanger": 7.5,
+    "coherence": 8.5
+  },
+  "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+  "total_episode_duration": "01:34.00",
+  "quality_audit": {
+    "quality_status": "NEEDS_REVIEW",
+    "quality_score": 90.0,
+    "warnings": [
+      "Low kinetic energy: Dialogue-heavy scene with no physical action or blocking changes."
+    ],
+    "failure_mitigation": "Ensure opening line names the subject; trim trailing exits to freeze on the reaction close-up."
+  }
+}

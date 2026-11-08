@@ -1,0 +1,28 @@
+{
+  "episode": 1,
+  "segments": [
+    {
+      "start": "01:23.70",
+      "end": "02:17.50",
+      "duration_sec": 53.8
+    }
+  ],
+  "total_duration_sec": 53.8,
+  "hook": "Lady Juliana\u2019s raw, choking plea 'Father... please look at me' is met with the priest\u2019s stone-cold, silent refusal, instantly establishing a visceral emotional violation.",
+  "cliffhanger": "Juliana\u2019s hand clenches the silk of her dead mother\u2019s gown until her knuckles whiten as the groom declares her 'low value' compared to her sister, freezing on her suppressed fury.",
+  "why_it_works": "The juxtaposition of a sacred wedding setting with brutal familial rejection and the visual detail of the mother's gown creates an immediate, high-stakes emotional hook that demands resolution.",
+  "viral_score": 87.0,
+  "scores": {
+    "hook": 7.0,
+    "cliffhanger": 10.0,
+    "coherence": 7.5
+  },
+  "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fianc\u00e9 Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+  "total_episode_duration": "02:18.00",
+  "quality_audit": {
+    "quality_status": "PASSED",
+    "quality_score": 100.0,
+    "warnings": [],
+    "failure_mitigation": "Clean production boundary."
+  }
+}
